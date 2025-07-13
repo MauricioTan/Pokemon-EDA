@@ -1,0 +1,5 @@
+status_cleaned,number_of_pokemon,avg_total_points,avg_hp,avg_attack,avg_defense,avg_sp_attack,avg_sp_defense,avg_speed
+legendary,39,679.56,111.44,125.74,108.21,122.54,110.62,101.03
+mythical,29,594.48,82.83,108.17,93.28,113.79,95.17,101.24
+sub_legendary,45,581.42,87.24,102.53,96.82,104.98,97.42,92.42
+normal,915,415.21,66.50,76.18,71.34,67.72,68.52,64.94

@@ -1,0 +1,77 @@
+type_1,growth_rate,number_of_pokemon
+Bug,"Medium Fast",52
+Bug,"Medium Slow",11
+Bug,Slow,9
+Bug,Fast,4
+Bug,Erratic,4
+Bug,Fluctuating,1
+Dark,"Medium Fast",21
+Dark,Slow,11
+Dark,"Medium Slow",10
+Dark,Fast,2
+Dragon,Slow,37
+Dragon,Erratic,2
+Dragon,"Medium Fast",1
+Electric,"Medium Fast",34
+Electric,Slow,15
+Electric,"Medium Slow",10
+Electric,Fast,2
+Fairy,"Medium Fast",10
+Fairy,Fast,9
+Fairy,Slow,3
+Fighting,"Medium Fast",19
+Fighting,"Medium Slow",13
+Fighting,Slow,4
+Fighting,Fluctuating,2
+Fire,"Medium Slow",34
+Fire,"Medium Fast",23
+Fire,Slow,8
+Flying,"Medium Slow",3
+Flying,"Medium Fast",3
+Flying,Slow,2
+Ghost,"Medium Fast",20
+Ghost,Fast,10
+Ghost,"Medium Slow",7
+Ghost,Slow,2
+Ghost,Fluctuating,2
+Grass,"Medium Slow",51
+Grass,"Medium Fast",24
+Grass,Slow,11
+Grass,Erratic,3
+Grass,Fluctuating,2
+Ground,"Medium Fast",24
+Ground,Slow,9
+Ground,"Medium Slow",8
+Ice,"Medium Fast",19
+Ice,Slow,10
+Ice,"Medium Slow",5
+Ice,Fast,1
+Ice,,1
+Normal,"Medium Fast",55
+Normal,"Medium Slow",21
+Normal,Fast,19
+Normal,Slow,18
+Normal,Erratic,2
+Poison,"Medium Fast",24
+Poison,Slow,6
+Poison,"Medium Slow",6
+Poison,Fluctuating,3
+Psychic,Slow,33
+Psychic,"Medium Fast",23
+Psychic,"Medium Slow",12
+Psychic,Fast,8
+Rock,"Medium Fast",22
+Rock,Slow,14
+Rock,"Medium Slow",14
+Rock,Erratic,8
+Rock,Fast,2
+Steel,Slow,17
+Steel,"Medium Fast",13
+Steel,Fast,3
+Steel,"Medium Slow",3
+Water,"Medium Fast",45
+Water,"Medium Slow",37
+Water,Slow,33
+Water,Fast,8
+Water,Erratic,7
+Water,Fluctuating,4
