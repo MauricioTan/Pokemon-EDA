@@ -14,15 +14,15 @@ This project aims to demonstrate my capabilities as an entry-level data analyst 
 
 ## 📊 Tableau Dashboard
 
-🔗 [**View the Interactive Dashboard on Tableau Public**](https://public.tableau.com/app/profile/mauricio.tan2146/viz/PokemonEDA_17508162389590/Statand)
+🔗 [**View the Dashboard on Tableau Public**](https://public.tableau.com/views/PokemonEDA_17508162389590/PokmonHighlightsStatTrends_1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-The dashboard includes multiple tabs visualizing:
+This dashboard includes multiple tabs visualizing:
 - Stats by type
 - Population growth
-- Dual-type trends
+- Dual-type patterns
 - Catch rates
-- Growth patterns and more
-
+- Growth rate distributions
+- 
 ---
 
 ## 📂 Dataset
